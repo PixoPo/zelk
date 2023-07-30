@@ -18,14 +18,14 @@
   --button-background: #302b36 !important;
   --button-background-hover: #94abec !important;
   --button-background-active: #595063 !important;
-  --button-accent-hover: #e3d6f8 !important;
-  --button-accent-active: #be9be7 !important;
+  --button-accent-hover: #94abec !important;
+  --button-accent-active: #94abec !important;
   --button-destructive: #fb7c7c !important;
   --button-destructive-hover: #ff929b !important;
   --button-destructive-active: #fa4a4a !important;
 }
 .theme-light {
-  --accent-color: #9f74e7 !important;
+  --accent-color: #94abec !important;
   --background-1: #ffffff !important;
   --background-2: #f9f7f9 !important;
   --border-color: transparent !important;
